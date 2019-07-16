@@ -1,2 +1,2 @@
 # bots_aiml
-Some tests whith AIML.
+Some tests with AIML.
